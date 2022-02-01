@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AMARTELKE
-- 👀 I’m interested in microbial genome analysis
-- 🌱 I’m currently learning to enrich my knowledge in microbial genomic diversity 
-- 💞️ I’m looking to collaborate on projects dealing with next generation sequence analysis.
+- 👀 I’m biologist who has interest in big data analyis
+- 🌱 I’m currently learning to enrich my knowledge in developing tools to analyse the large datasets
+- 💞️ I’m looking to collaborate on projects dealing with big data analysis.
 - 📫 How to reach me at telkeaa@gmail.com
 
 
