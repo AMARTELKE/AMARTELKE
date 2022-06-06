@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AMARTELKE
 - 👀 I’m biologist who has interest in big data analyis
-- 🌱 I’m currently learning to enrich my knowledge in developing tools to analyse the large datasets
-- 💞️ I’m looking to collaborate on projects dealing with big data analysis.
+- 🌱 I am interested in the analysis of all kinds of NGS data, from metagenomics and bacterial genomics, to transcriptomics, TAILseq and long-read sequencing data.
+- 💞️ I’m looking to collaborate on projects dealing with NGS data analysis.
 - 📫 How to reach me at telkeaa@gmail.com
 
 
